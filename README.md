@@ -1,8 +1,5 @@
 ### Hi World !!! 👋
 
-**Mohammad-Ishaq98/Mohammad-Ishaq98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -  My name is Ishaq.
 -  I’m currently working on Three.JS for some physics and math project
 -  I’m currently learning JavaScript
